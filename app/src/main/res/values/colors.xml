@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navyblue">#29335D</color>
+    <color name="white">#FFFFFFFF</color>
+
+        <!-- Primary App Colors -->
+    <color name="colorPrimary">#4CAF50</color>        <!-- Green -->
+    <color name="colorPrimaryDark">#388E3C</color>    <!-- Darker Green -->
+        <color name="colorAccent">#2196F3</color>         <!-- Blue -->
+
+        <!-- Backgrounds -->
+    <color name="colorBackgroundDark">#121212</color> <!-- Main Background (Dark Mode) -->
+    <color name="colorCardDark">#1F1F1F</color>       <!-- Card/Container Background -->
+    <color name="colorBackgroundLight">#F7F7F7</color> <!-- Light Mode Background -->
+    <color name="colorWhite">#FFFFFF</color>
+
+        <!-- Text Colors -->
+    <color name="textPrimaryDark">#FFFFFF</color>     <!-- White for Dark Mode -->
+    <color name="textSecondaryDark">#B3B3B3</color>   <!-- Dim white -->
+    <color name="textPrimaryLight">#000000</color>
+    <color name="textSecondaryLight">#444444</color>
+
+        <!-- Status Colors -->
+    <color name="statusAvailable">#4CAF50</color>     <!-- Green -->
+    <color name="statusBusy">#FF9800</color>          <!-- Orange -->
+    <color name="statusOffline">#9E9E9E</color>       <!-- Grey -->
+    <color name="statusAlert">#F44336</color>         <!-- Red -->
+
+        <!-- Others -->
+    <color name="buttonColor">#03DAC6</color>         <!-- Teal -->
+    <color name="dividerColor">#2C2C2C</color>        <!-- Line or Divider -->
+
+
+
+
+</resources>

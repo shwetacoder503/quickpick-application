@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887091219835",
+    "project_id": "quickpick-95719",
+    "storage_bucket": "quickpick-95719.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887091219835:android:1232dcbeb2134f9fd341de",
+        "android_client_info": {
+          "package_name": "com.example.quickpick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKyawtlTBDvVCgMXjUsLp0bOID8Xn5tx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
